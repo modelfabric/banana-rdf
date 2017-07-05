@@ -22,6 +22,7 @@ sbt-launch*.jar
 .idea_modules
 .ensime*
 *.egp
+.DS_Store
 
 # just for convenience for now - needs tidying up
 .local*
